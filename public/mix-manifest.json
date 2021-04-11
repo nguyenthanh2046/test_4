@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/modules/products/index.js": "/js/modules/products/index.js",
+    "/js/modules/products/form.js": "/js/modules/products/form.js",
+    "/js/modules/categories/index.js": "/js/modules/categories/index.js",
+    "/js/modules/categories/form.js": "/js/modules/categories/form.js",
+    "/js/select2_category.js": "/js/select2_category.js",
+    "/css/app.css": "/css/app.css"
+}
