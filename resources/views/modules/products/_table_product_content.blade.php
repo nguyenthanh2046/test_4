@@ -1,6 +1,6 @@
 @if($products->isEmpty())
     <tr>
-        <td class="text-center" colspan="5">
+        <td class="text-center" colspan="6">
             No product founded, please create product.
         </td>
     </tr>
