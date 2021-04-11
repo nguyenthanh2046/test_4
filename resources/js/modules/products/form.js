@@ -17,7 +17,7 @@ $(function () {
     }
 
     $('.text-money').inputFilter(function(value) {
-        return /^\d*$/.test(value.toString().replace(',', ''))
+        return /^\d*$/.test(value)
     })
 
     function addCommas(nStr) {
